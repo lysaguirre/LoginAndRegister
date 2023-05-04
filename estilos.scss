@@ -229,4 +229,15 @@ a:hover::after{
 
 
 
+footer{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: #fff;
+    font-size: 1em;
+    bottom: 0;
+}
+
 

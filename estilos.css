@@ -201,4 +201,15 @@ header .navigation a:hover::after {
 }
 .wrapper .form-box .login-register p a:hover {
   text-decoration: underline;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  color: #fff;
+  font-size: 1em;
+  bottom: 0;
 }/*# sourceMappingURL=estilos.css.map */
